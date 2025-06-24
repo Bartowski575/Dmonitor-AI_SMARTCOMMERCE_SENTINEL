@@ -1,6 +1,6 @@
-# AI-SMARTCOMMERCE-SENTINEL
+# Dmonitor - AI-SMARTCOMMERCE-SENTINEL
 
-AI-SmartCommerce-Sentinel - Products Creation, updation, deletion with stock, quality and demand tracking
+Dmonitor - AI-SmartCommerce-Sentinel - Products Creation, updation, deletion with stock, quality and demand tracking
 
 ## Tech Stack - React Redux Recharts Tailwindcss DaisyUI Node Express Mongoose
 
